@@ -1,11 +1,10 @@
-### Hi,我是lakeiedward  ⭐
+### Hi,我是lakeiedward ⭐
 <hr>
 
-- 🧑‍🎓 介绍：大四学生，热爱编程、喜欢动手实现小想法，目前正在实习阶段
-- 📃 博客：<a href="https://blog.csdn.net/Gaowumao?type=blog">CSDN个人技术分享</a> | <a href="https://juejin.cn/user/1469371468221047">掘金</a>
-- 🌱 干货：<a href="https://lakei-edward.github.io/translate.github.io/assets/img/wechat.dc667eaa.png">公众号『派大星不是程序员』</a>
-- 📌 作品：<a href="http://www.json-sql.online/">多功能SQL生成器</a> | <a href="https://github.com/lakei-edward/sql-translate">开源项目 | 求星星⭐️</a>
-- 💬 微信：pdx_jie（来由请备注）
+- 🧑 介绍：热爱编程、喜欢动手实现小想法，目前处于在职阶段
+- 📃 博客：<a href="https://juejin.cn/user/932805559720567/posts">掘金</a> | <a href="http://43.142.176.173/lakeiedward/">个人博客</a>
+- 📌 作品：<a href="https://lakei-edward.github.io/luckyui.github.io/">lucky-ui</a> | <a href="https://github.com/lakei-edward/lucky-ui">开源项目 | 求星星⭐️</a>
+- 💬 微信：LKXZ07（来由请备注）
 
 ### 访问人数
  ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) 
