@@ -3,7 +3,7 @@
 
 - 🧑 介绍：热爱编程、喜欢动手实现小想法，目前处于在职阶段
 - 📃 博客：<a href="https://juejin.cn/user/932805559720567/posts">掘金</a> | <a href="http://43.142.176.173/lakeiedward/">个人博客</a>
-- 📌 作品：<a href="https://lakei-edward.github.io/luckyui.github.io/">lucky-ui</a> | <a href="https://github.com/lakei-edward/lucky-ui">开源项目 | 求星星⭐️</a>
+- 📌 作品：<a href="https://github.com/lakei-edward/lucky-ui">vue-luckyui</a> 求星星⭐️
 - 💬 微信：LKXZ07（来由请备注）
 
 ### 访问人数
