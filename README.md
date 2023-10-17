@@ -13,9 +13,9 @@
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakei-edward&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakei-edward&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Contributions
+<!---### My Contributions
 ![](https://raw.githubusercontent.com/lakei-edward/lakei-edward/main/assets/github-contribution-grid-snake.svg)
-
+--->
 <!---
 lakei-edward/lakei-edward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
